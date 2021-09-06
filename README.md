@@ -1,4 +1,4 @@
-# FP_Projeto1
+# tic-tac-toe
 
 :portugal: - Primeiro projeto de Fundamentos da Programação, 2020/21: Jogo do Galo.
 
